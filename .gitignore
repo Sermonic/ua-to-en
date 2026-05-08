@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+CLAUDE.md
+app/.build-venv/
+app/build/
+app/dist/
